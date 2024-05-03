@@ -1,1 +1,2 @@
-# MLOps-azure
+![ML Lifecycle](./architecture/ml-lifecycle.png)
+
